@@ -4,3 +4,10 @@ I'm also good at API testing
 Learning English
 I am passionate about reading books
 
+Test case should be run in:
+Chrome 1920*1080 screen resolution
+Chrome 1024*768 screen resolution
+IE 1920*1080 screen resolution
+IE 1024*768 screen resolution
+Firefox 1920*1080 screen resolution
+Firefox 1024*768 screen resolution

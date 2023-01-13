@@ -11,3 +11,6 @@ IE 1920*1080 screen resolution
 IE 1024*768 screen resolution
 Firefox 1920*1080 screen resolution
 Firefox 1024*768 screen resolution
+
+Type of Issue: Report An Issue To A Known Group 
+Assigment Group: HCL-INFRA-VDI

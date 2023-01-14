@@ -13,3 +13,8 @@ Firefox 1920*1080 screen resolution
 Firefox 1024*768 screen resolution
 
 Assigment Group: HCL-INFRA-VDI
+
+Miners_new - 182801
+Miners - 182800
+MilkywayComp2 - 110015
+MilkywayComp1 - 110014
